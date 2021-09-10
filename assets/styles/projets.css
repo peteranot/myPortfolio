@@ -1,0 +1,32 @@
+
+/*--------------------------------------------------------------
+# SECTION 6 - GALERIE
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# Portfolio
+--------------------------------------------------------------*/
+#projets{
+	text-align: center; 
+	height:auto;
+}
+.projets-title{
+  color:rgb(63, 0, 58);
+  text-align: center;
+  background-color: rgb(92, 0, 179);
+  padding:10;
+  margin-bottom: 10px;
+}
+
+.card{
+	height: 100%;
+	width: 25rem; 
+	margin: 15px; 
+	display:flex
+}
+ 
+.card-img-top{
+	height: 300px;
+}
+
+  

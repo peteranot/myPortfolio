@@ -1,0 +1,42 @@
+.card{
+	padding: 10px;
+	border-radius: 50px;
+	box-shadow: 2px 3px 10px grey;
+}
+
+.form-control{
+	border-radius: 20px;
+}
+
+.btn{
+	border-radius: 20px;
+}
+
+.card-img-top{
+	border-radius: 20px;
+}
+
+h2{
+	color: rebeccapurple;
+	font-family: 'Baloo Tammudu 2', cursive;
+}
+tr,td{
+	text-align: center;
+	padding: 10px;
+}
+
+.addVolontaire{
+	background-color: lightgrey;
+}
+
+.list-group-item{
+	background-color: grey;
+	color: white
+}
+.list-group-item:hover{
+	background-color: blue
+}
+#accordion{
+	margin-right: 100px; 
+	text-align:center
+}
