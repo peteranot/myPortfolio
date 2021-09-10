@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 --
 -- Database: `portfolio_bdd`
 --
-
+CREATE DATABASE IF NOT EXISTS portfolio_bdd
 -- --------------------------------------------------------
 
 --
